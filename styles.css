@@ -24,9 +24,9 @@ body {
 
 .logo {
   display: block;
-  width: 300px;
+  width: 220px;
   height: auto;
-  margin: 0 auto 56px;
+  margin: 0 auto 64px;
 }
 
 .contact-link {
@@ -34,6 +34,15 @@ body {
   font-size: 12px;
   line-height: 1;
   text-decoration: none;
+  display: inline-block;
+  margin: 0 0 64px;
+}
+
+.copyright {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.3);
+  font-size: 12px;
+  line-height: 1;
 }
 
 .contact-link:hover,
